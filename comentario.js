@@ -1,0 +1,3 @@
+<p>Teste de texto comentario</p> //comentario...
+
+/* comentario 2 */
